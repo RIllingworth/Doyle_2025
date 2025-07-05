@@ -1,2 +1,2 @@
 # Doyle_2025
-Codes associated with Doyle_et_al 2025 Study
+Scripts and files associated with the Doyle et al. 2025 study Associated GEO submission accession for raw data files - GSE......
