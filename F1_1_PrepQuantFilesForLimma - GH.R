@@ -5,7 +5,7 @@
 #Uses the un-normalised HOMER quantification of the raw NGS data for all samples 
 #Quantifications were performed for exons on the same strand as the gene orientations
 #Quant command:
-#analyzeRepeats.pl /exports/cmvm/eddie/scs/groups/rilling2-lab/gene_anno/mm39/RefSeq_UCSC-refGene_mm39.gtf none -count exons -d \ [list of tag HOMER directories] -strand + -noadj > ./Quant/I53_NSCs_RefS_mm39_Exons_PosStr.txt
+#analyzeRepeats.pl /RefSeq_UCSC-refGene_mm39.gtf none -count exons -d \ [list of tag HOMER directories] -strand + -noadj > ./Quant/I53_NSCs_RefS_mm39_Exons_PosStr.txt
 
 #### Set global paramaters
 Root_Directory<-"Your_Root_Dir"
